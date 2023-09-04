@@ -1,1 +1,1 @@
-# R-Consulting-Example-
+# This is example R code I put together for a private company looking at indoor hemp production. They had lots of data and did not know what to do with them. My goal for this project was to create an R scrip that would help them better understand their data and identify outlier production records that should be investigated further.
